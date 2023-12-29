@@ -1,0 +1,16 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmOgrenciNotlar.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmOgretmen.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmKulup.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmDersler.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmOgrenci.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Proje_Okul\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.FrmSinavNotlar.resources
